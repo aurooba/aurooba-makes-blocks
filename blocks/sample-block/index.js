@@ -18,7 +18,7 @@ const { Toolbar, Tooltip, IconButton } = wp.components;
  * Register block
  */
 export default registerBlockType(
-    'aurooba-makes-blocks/grid-content',
+    'aurooba-makes-blocks/sample-block',
     {
         title: __( 'Sample Block', 'aurooba-makes-blocks' ),
         description: __( 'Sample', 'aurooba-makes-blocks' ),
